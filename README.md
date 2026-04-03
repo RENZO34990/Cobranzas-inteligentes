@@ -30,7 +30,7 @@ streamlit run app.py
 cobranza-inteligente/
 │
 ├── app.py                  # Dashboard interactivo (Streamlit)
-├── notebook.ipynb          # Pipeline completo: EDA → modelo → evaluación
+├── Cobranza_Inteligente.ipynb          # Pipeline completo: EDA → modelo → evaluación
 ├── modelo_cobranza.pkl     # Modelo entrenado (generado por el notebook)
 ├── features.pkl            # Lista de features del modelo
 ├── requirements.txt        # Dependencias del proyecto
@@ -97,7 +97,7 @@ streamlit run app.py
 ```
 
 ### Opción 2 — Con modelo real
-1. Abre `notebook.ipynb` en Google Colab
+1. Abre `Cobranza_Inteligente.ipynb` en Google Colab
 2. Descarga el dataset de Kaggle y súbelo a Colab
 3. Ejecuta todas las celdas
 4. Descarga `modelo_cobranza.pkl` y `features.pkl`
