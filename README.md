@@ -142,4 +142,6 @@ Este tipo de sistema es aplicable en:
 
 ## Autor
 
-Desarrollado como proyecto de portafolio para roles de Data Analyst, Risk Analyst y Business Analyst en el sector financiero peruano.
+**Renzo Rojas** — Economía Internacional, [Universidad Nacional Mayor de San Marcos] · Lima, Perú
+[LinkedIn](www.linkedin.com/in/renzo-rojas-salazar-50841b286)
+
